@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickMutasi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7841d4b4687d964d6de550b1ced03ebfd87bb3db")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickMutasi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickMutasi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
